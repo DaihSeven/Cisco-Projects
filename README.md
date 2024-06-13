@@ -63,3 +63,9 @@ Isso indica que o computador com o endereço IP 192.168.10.2 não está responde
 ![Prompt](/Projeto%20cisco-%20Miguel/prints/Captura%20de%20tela%202024-06-13%20142642.png)
 
 
+# Projetado por: 
+Daiane das Graças Barbosa Koslowski
+
+[Linkedin](https://www.linkedin.com/in/daianebarbosak/)
+
+[GitHub](https://github.com/DaihSeven/Cisco-Projects)
