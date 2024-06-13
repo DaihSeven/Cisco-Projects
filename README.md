@@ -24,10 +24,12 @@ Cliquei no PC que iria usar para o teste (neste caso, o PC com o endereço IP 19
 Na janela que se abre, cliquei em Desktop e depois em Command Prompt.
 No prompt de comando, digitei o seguinte comando: ping 192.168.10.2 e pressionei Enter.
 
-O que ocorre:
+## O que ocorre:
+
 O comando ping envia um pacote de dados para o endereço IP especificado (neste caso, 192.168.10.2) e aguardará uma resposta. Se o PC com o endereço IP 192.168.10.2 estiver configurado corretamente e conectado à rede, ele responderá ao ping e você verá a resposta no prompt de comando.
 Se você receber uma resposta, isso significa que a comunicação entre os dois PCs está funcionando corretamente. Se você não receber uma resposta, pode haver um problema com a configuração da rede ou com o PC que você está tentando alcançar.
-Quando você executa o comando ping no prompt de comando, a resposta que você recebe normalmente se parece com isto:
+
+## Quando você executa o comando ping no prompt de comando, a resposta que você recebe normalmente se parece com isto:
 
 Pinging 192.168.10.2 with 32 bytes of data:
 Reply from 192.168.10.2: bytes=32 time<1ms TTL=128
@@ -42,7 +44,7 @@ Approximate round trip times in milli-seconds:
 
 Isso significa que o computador com o endereço IP 192.168.10.2 está respondendo aos pings, indicando que a comunicação entre os dois computadores está funcionando corretamente.
 
-Se o computador não estiver respondendo, você verá uma mensagem como esta:
+## Se o computador não estiver respondendo, você verá uma mensagem como esta:
 
 Pinging 192.168.10.2 with 32 bytes of data:
 Request timed out.
