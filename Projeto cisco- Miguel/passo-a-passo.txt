@@ -1,0 +1,16 @@
+Definir o cenário: 
+Neste projeto, você está trabalhando para o show da banda de Miguel e precisa configurar uma rede de computadores para a equipe de produção. 
+Cada membro da equipe tem um computador que precisa estar conectado à rede para se comunicar com os outros.
+Montar a topologia: 
+Você vai usar o Cisco Packet Tracer para criar uma topologia de rede estrela. Primeiro, crie uma nova topologia no programa. 
+Em seguida, arraste um switch para o centro da área de trabalho. Depois, arraste quatro PCs e posicione-os ao redor do switch. 
+Cada PC representa um membro da equipe de produção.
+Conectar os dispositivos: 
+Agora, você precisa conectar cada PC a uma porta diferente no switch usando cabos ethernet. Isso vai formar uma estrela com os computadores da 
+equipe de produção ao redor do switch central.
+Configurar os endereços IP: 
+Cada computador precisa ter um nome e um número de endereço IP. Configure os endereços IP para as interfaces dos PCs e do switch. 
+Todos eles devem estar na mesma sub-rede.
+Testar a comunicação: 
+Para verificar se todos os computadores estão configurados corretamente, acesse um dos PCs da equipe, abra o prompt de comando e tente fazer um 
+ping para o endereço IP do computador de outro membro da equipe.
